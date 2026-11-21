@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+temp_externo/
+pruebas/_tmp/
+exportaciones/*
+!exportaciones/.gitkeep
+*.tmp
